@@ -4,4 +4,4 @@ while numero !=0:
     if numero % 2 == 0:
         print("Numero Par!")
     else:
-        Print("Numero Impar!")
+        print("Numero Impar!")
